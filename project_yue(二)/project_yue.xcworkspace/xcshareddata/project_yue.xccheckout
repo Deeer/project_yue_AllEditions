@@ -10,31 +10,31 @@
 	<string>project_yue</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>3B834299CC481648F5F8A3C53616B59A51E580D8</key>
-		<string>https://github.com/Deeer/project_yue.git</string>
+		<key>0CB4D97D50635F5FC93B63827837F2AFBBCD79D1</key>
+		<string>https://github.com/Deeer/project_yue_AllEditions.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>project_yue.xcworkspace</string>
+	<string>project_yue(二)/project_yue.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>3B834299CC481648F5F8A3C53616B59A51E580D8</key>
-		<string>..</string>
+		<key>0CB4D97D50635F5FC93B63827837F2AFBBCD79D1</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/Deeer/project_yue.git</string>
+	<string>https://github.com/Deeer/project_yue_AllEditions.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>3B834299CC481648F5F8A3C53616B59A51E580D8</string>
+	<string>0CB4D97D50635F5FC93B63827837F2AFBBCD79D1</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>3B834299CC481648F5F8A3C53616B59A51E580D8</string>
+			<string>0CB4D97D50635F5FC93B63827837F2AFBBCD79D1</string>
 			<key>IDESourceControlWCCName</key>
-			<string>project_yue</string>
+			<string>project</string>
 		</dict>
 	</array>
 </dict>
